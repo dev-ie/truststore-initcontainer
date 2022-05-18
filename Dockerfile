@@ -1,4 +1,4 @@
-FROM ubi8/openjdk-11:1.10
+FROM ubi8/openjdk-11:1.12
 
 USER root
 
